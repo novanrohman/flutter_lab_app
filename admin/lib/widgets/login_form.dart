@@ -7,7 +7,7 @@ class LogInForm extends StatefulWidget {
 }
 
 class _LogInFormState extends State<LogInForm> {
-  bool _isObscure = true;
+  image.png
   @override
   Widget build(BuildContext context) {
     return Column(
